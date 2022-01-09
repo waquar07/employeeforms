@@ -1,0 +1,79 @@
+h1
+{
+    text-align: center;
+    color: linen;
+
+}
+body{
+    background-color:lightsteelblue;
+}
+form
+{
+    background-color: rgba(119, 136, 153, 0.404);
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+    margin-left: 530px;
+}
+input
+{
+    /* font-size: 20px; */
+    border-radius: 10px;
+    border: solid 1px linen;
+    width: 250px;
+    height: 27px;
+    /* margin-top: 30px; */
+}
+label{
+    color: linen;
+    font-size: large;
+    line-height: 40px;
+}
+.card{
+    margin-top: 10px;
+}
+button{
+    margin-top: 15px;
+    font-size: 15px;
+    border: 0px;
+    padding: 7px;
+    border-radius: 5px;
+}
+button:hover
+{
+    color: whitesmoke;
+    background-color: thistle;
+}
+.parent
+{
+    background-color: rgba(119, 136, 153, 0.404);
+    display: flex;
+    justify-content: space-between;
+    width: 850px;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.child
+{
+    width: 350px;
+    height: 24px;
+    padding: 10px;
+    background-color: linen;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: palevioletred;
+}
+.btn
+{
+    margin-left: 638px;
+}
+
+.Header{
+ margin-left: -157px;
+ color: red;
+}
